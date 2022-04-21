@@ -11,7 +11,7 @@
 </p>
 
 <br/><h4  align="center">
-  Orientações:
+  Orientação:
 </h4>
 
 <p  align="center">
@@ -19,13 +19,23 @@ Investir em um bom curso online
 </p>
 
 <h4 align="center">
-  <a href='https://www.alura.com.br/'>Alura</a><b>(recomendado)</b> / <a href='https://udemy.com/'>Udemy</a>
+  <a href='https://www.alura.com.br/'>Alura</a><b>(recomendado)</b>
+  <br/><a href='https://udemy.com/'>Udemy</a>
 </h4>
 
-<br/><br/><h4 align="center"> 
+<br/><h4 align="center">
+  Preparação:
+</h4>
+
+<p align="center">
+  <a href='https://udemy.com/'>Cursos de lógica</a>
+  <br/><a href='https://udemy.com/'>Curso de orientação a objeto</a> 
+</p>
+
+<br/><br/><h4> 
 	Turma 1 - em andamento :running:
 </h4>
-<p  align="center">
+<p>
 	O desafio da Turma 1 é desenvolver um cadastro de candidatos do <b>Programação em Par</b>. Utilizando <a href='https://www.java.com/pt-BR/'>Java,</a> como backend, <a href='https://vuejs.org/'>vuejs</a> no frontend. Tudo no <a href='https://github.com/programacaoempar/cadastro'>github</a>, e publicado no <a href='https://www.heroku.com/'>Heroku com banco de dados real.
 </p>
 
