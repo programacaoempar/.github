@@ -23,19 +23,13 @@ Investir em um bom curso online
 </h4>
 
 <br/><br/><h4 align="center"> 
-	 Turma 1 - em andamento :running:   
+	Turma 1 - em andamento :running:
 </h4>
+<p  align="center">
+	O desafio da Turma 1 é desenvolver um cadastro de candidatos do <b>Programação em Par</b>. Utilizando <a href='https://www.java.com/pt-BR/'>Java,</a> como backend, <a href='https://vuejs.org/'>vuejs</a> no frontend. Tudo no <a href='https://github.com/programacaoempar'>github</a>, e publicado no <a href='https://www.heroku.com/'>Heroku com banco de dados real.
+</p>
+
+
 <p align="center">
   (🙋 4 vagas disponíveis 🙋‍♀️)  
 </p>
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
