@@ -11,27 +11,7 @@
 </p>
 
 <br/><h4  align="center">
-  Orientação:
-</h4>
-
-<p  align="center">
-Investir em um bom curso online 
-</p>
-
-<h4 align="center">
-  <a href='https://www.alura.com.br/'>Alura</a><b>(recomendado)</b>
-  <br/><a href='https://udemy.com/'>Udemy</a>
-</h4>
-
-<br/><h4 align="center">
-  Preparação:
-</h4>
-
-<p align="center">
-  <a href='https://www.alura.com.br/cursos-online-programacao/logica'>Cursos de lógica</a>
-  <br/><a href='https://www.alura.com.br/curso-online-java-introducao-orientacao-objetos'>Curso de orientação a objeto</a> 
-</p>
-
+	<a href='https://github.com/programacaoempar/documentacao/wiki/Prepara%C3%A7%C3%A3o'>Preparação</a></h4>
 <h4> 
 	Dinâmica do curso
 </h4>
