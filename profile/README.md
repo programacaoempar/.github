@@ -36,7 +36,7 @@ Investir em um bom curso online
 	Turma 1 - em andamento :running:
 </h4>
 <p>
-	O desafio da Turma 1 é desenvolver um cadastro de candidatos do <b>Programação em Par</b>. Utilizando <a href='https://www.java.com/pt-BR/'>Java,</a> como backend, <a href='https://vuejs.org/'>vuejs</a> no frontend. Tudo no <a href='https://github.com/programacaoempar/cadastro'>github</a>, e publicado no <a href='https://www.heroku.com/'>Heroku com banco de dados real.
+	O desafio da Turma 1 é desenvolver um cadastro de candidatos do <b>Programação em Par</b>. Utilizando <a href='https://www.java.com/pt-BR/'>Java,</a> como backend, <a href='https://vuejs.org/'>vuejs</a> no frontend. Tudo no <a href='https://github.com/programacaoempar/cadastro'>github</a>, e publicado no <a href='https://www.heroku.com/'>Heroku com banco de dados real.</a>
 </p>
 
 
