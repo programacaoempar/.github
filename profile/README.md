@@ -28,8 +28,8 @@ Investir em um bom curso online
 </h4>
 
 <p align="center">
-  <a href='https://udemy.com/'>Cursos de lógica</a>
-  <br/><a href='https://udemy.com/'>Curso de orientação a objeto</a> 
+  <a href='https://www.alura.com.br/cursos-online-programacao/logica'>Cursos de lógica</a>
+  <br/><a href='https://www.alura.com.br/curso-online-java-introducao-orientacao-objetos'>Curso de orientação a objeto</a> 
 </p>
 
 <br/><br/><h4> 
