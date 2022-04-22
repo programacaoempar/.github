@@ -10,7 +10,7 @@
   Vontade de aprender e disponibilidade para estudar
 </p>
 
-<br/><h4  align="center">
+<h4  align="center">
 	<a href='https://github.com/programacaoempar/documentacao/wiki/Prepara%C3%A7%C3%A3o'>Preparação</a></h4>
 <h4> 
 	Dinâmica do curso
