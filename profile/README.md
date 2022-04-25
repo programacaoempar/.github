@@ -23,7 +23,7 @@
 	:new: Novos alunos 
 </h4>
 <p>
-	<a href='#'>Joby Ferreira</a>, <a href='#'>Mateus Rodrigues</a>
+	<a href='#'>Joby Ferreira</a>, <a href='#'>Mateus Rodrigues</a>, <a href='#'>Diego Padilha</a>
 </p>
 
 <h4> 
