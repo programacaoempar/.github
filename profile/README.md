@@ -41,5 +41,5 @@
 </p>
 
 <p align="center">
-  (🙋 3 vagas disponíveis 🙋‍♀️)  
+  (🙋 1 vagas disponíveis 🙋‍♀️)  
 </p>
