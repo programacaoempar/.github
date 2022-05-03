@@ -23,14 +23,14 @@
 	:new: Novos alunos 
 </h4>
 <p>
-	<a href='#'>Joby Ferreira</a>, <a href='#'>Mateus Rodrigues</a>, <a href='https://github.com/padilhaDiego'>Diego Padilha</a>, <a href='https://github.com/Eudgar'>Edgar</a>
+	<a href='https://github.com/Jobyhumberto'>Joby Ferreira</a>, <a href='https://github.com/MateuzRodrigues'>Mateus Rodrigues</a>, <a href='https://github.com/padilhaDiego'>Diego Padilha</a>, <a href='https://github.com/Eudgar'>Edgar</a>
 </p>
 
 <h4> 
 	:book: Alunos em preparação
 </h4>
 <p>
-	<a href='https://github.com/AugustoSandrini'>Augusto Sandrini</a>, <a href='#'>Jonatas Cruz</a>, <a href='https://github.com/KarinaPadilha2512'>Karina Padilha</a>
+	<a href='https://github.com/AugustoSandrini'>Augusto Sandrini</a>, <a href='https://github.com/JonatasRodriguescruz'>Jonatas Cruz</a>, <a href='https://github.com/KarinaPadilha2512'>Karina Padilha</a>
 </p>
 
 <h4> 
