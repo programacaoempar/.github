@@ -20,17 +20,10 @@
 </p>
 
 <h4> 
-	:new: Novos alunos 
-</h4>
-<p>
-	<a href='https://github.com/Jobyhumberto'>Joby Ferreira</a>, <a href='https://github.com/MateuzRodrigues'>Mateus Rodrigues</a>, <a href='https://github.com/padilhaDiego'>Diego Padilha</a>, <a href='https://github.com/Eudgar'>Edgar</a>
-</p>
-
-<h4> 
 	:book: Alunos em preparação
 </h4>
 <p>
-	<a href='https://github.com/AugustoSandrini'>Augusto Sandrini</a>, <a href='https://github.com/JonatasRodriguescruz'>Jonatas Cruz</a>, <a href='https://github.com/KarinaPadilha2512'>Karina Padilha</a>
+	<a href='https://github.com/AugustoSandrini'>Augusto Sandrini</a>, <a href='https://github.com/KarinaPadilha2512'>Karina Padilha</a>, <a href='https://github.com/Jobyhumberto'>Joby Ferreira</a>, <a href='https://github.com/MateuzRodrigues'>Mateus Rodrigues</a>, <a href='https://github.com/padilhaDiego'>Diego Padilha</a>, <a href='https://github.com/Eudgar'>Edgar</a>
 </p>
 
 <h4> 
@@ -38,8 +31,4 @@
 </h4>
 <p>
 	O desafio da Turma 1 é desenvolver um cadastro de candidatos do <b>Programação em Par</b>. Utilizando <a href='https://www.java.com/pt-BR/'>Java,</a> como backend, <a href='https://vuejs.org/'>vuejs</a> no frontend. Tudo no <a href='https://github.com/programacaoempar/cadastro'>github</a>, e publicado no <a href='https://www.heroku.com/'>Heroku com banco de dados real.</a>
-</p>
-
-<p align="center">
-  (🙋 1 vagas disponíveis 🙋‍♀️)  
 </p>
